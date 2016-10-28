@@ -9,5 +9,5 @@
  * @author snyoneng
  */
 public class Client {
-    
+    private int x;
 }
